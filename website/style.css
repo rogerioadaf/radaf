@@ -77,6 +77,10 @@ main a{
     color: #011126;
 }
 
+main abbr{
+    text-decoration: underline;
+}
+
 footer{
     background-color: #000000;
     color: #ffffff;
